@@ -96,7 +96,7 @@ class DynamicTabViewScrollHeader extends React.Component {
 const DynamicdefaultStyle = {
 	headerStyle: {},
 	tabItemText: {
-		color: 'white',
+		color: 'black',
 	},
 	tabItemContainer: {
 		overflow: 'hidden',
